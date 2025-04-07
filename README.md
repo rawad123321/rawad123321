@@ -5,7 +5,7 @@
 
 ### 🚧 What I’m working on
 
-- 🔊 **Speechify** – A Chrome TTS extension that reads selected text out loud, perfect for learners and people with dyslexia.
+- 🔊 **Speechify** – A Chrome TTS extension that reads selected text out loud, perfect for languages learners and people with dyslexia.
 ---
 
 ### 📚 Currently Learning
