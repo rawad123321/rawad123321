@@ -16,9 +16,8 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 My Stack
 
-#### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
@@ -29,22 +28,16 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-API-lightgrey)
-
-#### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Koa](https://img.shields.io/badge/Koa.js-333333?logo=koa&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-#### 🧪 Testing & DevOps
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-6E40C9?logo=jest&logoColor=white)
 ![E2E Testing](https://img.shields.io/badge/E2E_Testing-5C2D91?logo=cypress&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-555555?logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-#### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 
