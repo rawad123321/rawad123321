@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Rawad</h1>
+<h1 align="center">Hello👋 I'm Rawad</h1>
 <p align="center">🌍 Multilingual fullstack dev • 💻 software engineer • 🚀 Always building cool things</p>
 
 ---
