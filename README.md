@@ -2,10 +2,15 @@
 <p align="center">🌍 Multilingual fullstack dev • 💻 software engineer • 🚀 Always building cool things</p>
 
 ---
+### About Me
+ Hi! I’m Rawad Nounou, an aspiring software engineer passionate about learning and creating impactful solutions, Expert in Typescript, React, Vue, Tailwind and Express. Experienced in writing tests with Jest and Vitest. 
 
-### 🚧 What I’m working on
+I’m driven by curiosity and enjoy solving challenges with simple, efficient solutions. Based in Beirut, Lebanon , I find inspiration in its innovative tech scene and diverse culture, fueling my growth as a developer.
 
-- 🔊 **Speechify** – A Chrome TTS extension that reads selected text out loud, perfect for languages learners and people with dyslexia.
+I’m excited to collaborate, learn, and contribute to meaningful projects while building a strong foundation in software engineering.
+
+---
+- 🔊 **Currently Working on Speechify** – A Chrome TTS extension that reads selected text out loud, perfect for languages learners and people with dyslexia.
 ---
 
 ### 📚 Currently Learning
