@@ -79,6 +79,7 @@ Tech Stack used:<br>
 
 <img width="1606" height="837" alt="Screenshot 2025-09-04 130716" src="https://github.com/user-attachments/assets/8f25aec2-a006-46e7-88ca-74e96b745214" />
 
+----
 
 ![My GIF](https://github.com/rawad123321/gif/blob/main/20250904-1012-33.4862373-ezgif.com-video-to-gif-converter.gif)
 
