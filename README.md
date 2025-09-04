@@ -83,6 +83,14 @@ Tech Stack used:<br>
 
 
 
+Tech Stack used:<br>
+<picture>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)</picture>
+<picture>![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)</picture>
+<picture>![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)</picture>
+<picture>![Chrome Extensions API](https://img.shields.io/badge/Chrome%20Extensions-4285F4?logo=googlechrome&logoColor=white)</picture>
+<picture>![Web Speech API](https://img.shields.io/badge/Web%20Speech%20API-FF6F00?logo=speechmatics&logoColor=white)</picture>
+
+
 
 
 
