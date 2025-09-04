@@ -77,7 +77,7 @@ Tech Stack used:<br>
 ---
 ### Speechify
 
-<img width="1606" height="837" alt="image" src="https://github.com/user-attachments/assets/f1ea02a9-96af-4f40-b079-e594a3bf460b" />
+
 ![My GIF](https://raw.githubusercontent.com/rawad123321/gif/main/20250904-1012-33.4862373-ezgif.com-video-to-gif-converter.gif)
 
 
