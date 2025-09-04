@@ -53,7 +53,7 @@
 ### 📫 Let’s Connect
 
 - 📧 rawadnounou@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/rawad-nounou-79a773325) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/rawad-nounou-79a773325) 
 
 
 ---
